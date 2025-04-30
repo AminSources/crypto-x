@@ -20,6 +20,7 @@ CryptoX is an simple and beautiful crypto application built with Dart language a
 <div display: "inline-block";>
 <img src="https://github.com/user-attachments/assets/368ae02d-0c10-4c0f-8ea7-8b8ec5b0b162" alt="screenshot" width="250">
 <img src="https://github.com/user-attachments/assets/c9cd89db-393b-4d03-a2b3-d13bde685e15" alt="screenshot" width="250">
+<img src="https://github.com/user-attachments/assets/d6a19eb5-5e16-4ed5-ad8d-caa39995976e" alt="screenshot" width="250">
 </div>
 
 
