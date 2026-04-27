@@ -49,7 +49,7 @@ CryptoX is an simple and beautiful crypto application built with Dart language a
 * website: https://aminlibrary.github.io
 * telegram: @iAmin_com
 * email: helloamin.com@gmail.com
-* project: https://github.com/aminlibrary/sky-weather
+* project: https://github.com/AminSources/crypto-x
 
 ## Contribution Guidelines
 
